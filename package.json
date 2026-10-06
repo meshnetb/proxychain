@@ -1,0 +1,11 @@
+{
+  "name": "bun-apify-proxy",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun run server.ts"
+  },
+  "dependencies": {
+    "proxy-chain": "^2.5.5"
+  }
+}
